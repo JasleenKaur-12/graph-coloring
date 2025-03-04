@@ -1,2 +1,2 @@
-# optimalbst
-This is optimal binary search tree .
+# graph coloring
+This is graph coloring .
